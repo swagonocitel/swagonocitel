@@ -1,6 +1,6 @@
 # Привет, я Shadowfr1end 👋
 
-**C# / Python Developer(амбассадор)**
+**C# / Python Developer | Linux Enthusiast**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/swagonocitel/swagonocitel/main/gamesense.svg" alt="gamesense" />

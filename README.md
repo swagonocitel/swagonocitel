@@ -2,7 +2,11 @@
 
 **C# / Python Developer(амбассадор)**
 
-Мне 19 лет, и я увлечен программированием. Люблю писать код, создавать проекты и разбираться в новых технологиях.
+<p align="center">
+  <a href="https://github.com/swagonocitel">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=gamesense" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 

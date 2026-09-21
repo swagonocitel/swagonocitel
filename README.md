@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/swagonocitel">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Shadowfr1end&fontSize=50&animation=fadeIn" alt="Header" />
+  </a>
+</p>
+
 # Привет, я Shadowfr1end 👋
 
 **C# / Python Developer | Linux Enthusiast**

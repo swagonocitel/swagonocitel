@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swagonocitel&theme=radical&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ### 🛠️ Технологии

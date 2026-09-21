@@ -5,6 +5,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/swagonocitel/swagonocitel/main/gamesense.svg" alt="gamesense" />
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagonocitel&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 

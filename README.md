@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет, я Shadowfr1end 👋
 
-<!--
-**swagonocitel/swagonocitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C# / Python Developer(амбассадор)**
 
-Here are some ideas to get you started:
+Мне 19 лет, и я увлечен программированием. Люблю писать код, создавать проекты и разбираться в новых технологиях.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Мои проекты
+
+- **[proxy-vpn-from-windows](https://github.com/swagonocitel/proxy-vpn-from-windows)** — Простой VPN для Windows на C#.
+- **[FormatValidator](https://github.com/swagonocitel/FormatValidator)** — Утилита для валидации форматов.
+
+---
+
+### 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swagonocitel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagonocitel&layout=compact&theme=radical)
+
+---
+
+### 📫 Как связаться
+
+пока никак(

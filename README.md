@@ -22,13 +22,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swagonocitel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagonocitel&layout=compact&theme=radical)
-
----
-
 ### 📫 Как связаться
 
 пока никак(
